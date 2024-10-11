@@ -1,0 +1,133 @@
+/*Mobile View*/
+
+@media (max-width:800px){
+
+    .body{
+       background-image: url(img/g11.jpg);
+       background-repeat:no-repeat;
+       background-attachment: fixed;
+   
+   }
+   .logo{
+   
+       margin-top: -20px;
+       margin-left: -40px; 
+   
+   }
+   
+   .logo a{
+       font-size: 50px;
+       font-style: italic;
+       font-family: Kaushan Script;
+       text-shadow: 2px 2px 10px rgba(0,0,0,8);
+    
+   }
+
+   .iconArea{
+
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+
+   }
+
+   .iconArea a{
+
+    font-size: 25px;
+
+
+   }
+
+   .rm{
+   
+        width:400px;
+        height: 240px;
+        margin-left: 350px;
+
+   }
+   
+   .section1Button h1{
+       
+        margin-left: -150px;
+
+        font-size: 40px;
+
+   }
+
+   .section1Button button{
+
+    margin-left: -150px;
+
+   }
+
+    .productSection{
+
+        margin-left: 200px;
+        margin-top:-200px;
+
+   }
+   
+   .productBox{
+    
+        display:flex;
+        flex-direction:column;
+
+}
+
+    .about{
+
+        margin-left: 187.5px;
+
+
+   }
+
+   .aboutBox1{
+
+        margin-right: 200px;
+
+
+
+   }
+
+    .m{
+
+        margin-left:-40px;
+        width: 100%;
+
+    }
+
+    .Notification{
+
+        margin-left: 187.5px;
+
+
+    } 
+ 
+    footer{
+
+        padding-right: 750px;
+
+    }
+
+    footer p{
+
+        margin-left: 350px;
+
+
+    }
+
+   .b{
+
+        margin-left: 270px;
+        width:fit-content;
+        margin-bottom: 0px;
+
+
+
+   }
+   
+}
+   
+   
